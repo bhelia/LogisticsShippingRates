@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Logistics' shipping rates
+
 Please consider the below factors while contributing
 
 Code Style:
